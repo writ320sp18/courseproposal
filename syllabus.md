@@ -89,9 +89,8 @@ University Librarians are available to help you find and evaluate sources for yo
 
 A grade of "D" or better is necessary to pass this class.
 
-|  |
-| :---: |
 | Letter Grade | Equivalency |
+| --- | --- |
 | A | 93-100 |
 | A- | 90-92 |
 | B+ | 87-89 |
@@ -113,9 +112,8 @@ If you receive a grade lower than 80% on a major assignment, you may revise and 
 
 ### Course Projects
 
-|  |
-| :---: |
 | Project Focus | Percent Grade |
+| --- | --- |
 | Project 1: Technical Communication Failure Audit | 15% |
 | Project 2: FOSS Documentation | 25% |
 | Project 3: Usability Testing and Documentation | 25% |
