@@ -1,13 +1,13 @@
 ## WRIT 320: Technical Writing
-Proposed: April 2017
-Delivery Mode: F2F and Web (alternating semesters)
+Proposed: April 2017  
+Delivery Mode: F2F and Web (alternating semesters)  
 
 ## Course Description
 ### Catalog:
 
 Intensive study of technical style and information design; practice in various formats, modes, and platforms. Experience developing technical reports, iterating user documentation, and representing complex information to varied audiences.
 
-3 credit hours. 
+3 credit hours.   
 **Prerequisite:** Writ 102, or Liba 102, or Hon 102, or Engl 102. (3). Writ 300 or equivalent.
 
 ### Long Description:
