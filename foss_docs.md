@@ -10,14 +10,14 @@ The Writer will iterate several drafts of the documentation set and will utilize
 **Course Learning Outcomes**: 1, 2, 3, 5, 6, 7, 8  
 
 ### Assignment Outcomes
-a. Recognize best-practices of software documentation 
-b. Recognize the components of free and open source software
-c. Analyze existing documentation
-d. Interpret user needs for a specific, designated audience
-e. Use Markdown document language to develop documentation 
-f. Apply version-control methods to iterate documentation
-g. Apply Jekyll to generate static site in GitHub pages for documentation's final iteration 
-f. Evaluate peer documentation 
+1. Recognize best-practices of software documentation 
+2. Recognize the components of free and open source software
+3. Analyze existing documentation
+4. Interpret user needs for a specific, designated audience
+5. Use Markdown document language to develop documentation 
+6. Apply version-control methods to iterate documentation
+7. Apply Jekyll to generate static site in GitHub pages for documentation's final iteration 
+8. Evaluate peer documentation 
 
 ### Relevant Content
 
@@ -30,9 +30,9 @@ f. Evaluate peer documentation
 
 ### Format Considerations
 Documentation must be housed in a separate GitHub repository independent of other work for the course. Choose from one of the approved Jekyll repositories and choose to: 
-a. Fork it and compose your documentation in the forked repository   
-b. Clone it and compose your documentation locally  
-c. Compose documentation locally and build Jekyll site separately, merge upon final iteration  
+1. Fork it and compose your documentation in the forked repository   
+2. Clone it and compose your documentation locally  
+3. Compose documentation locally and build Jekyll site separately, merge upon final iteration  
 
  ### General Requirement 
  - Overall wordcount should be 1000-1500 words (though this is difficult to measure in this medium)
