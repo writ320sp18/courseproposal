@@ -1,3 +1,5 @@
+[Download/Google Doc](https://docs.google.com/document/d/16uAmfR86gqaT7j14YT--E_g09Vk8UoPCzvT6sm86Gbs) 
+
 ## WRIT 320: Technical Writing
 Proposed: April 2017  
 Delivery Mode: F2F and Web (alternating semesters)  
