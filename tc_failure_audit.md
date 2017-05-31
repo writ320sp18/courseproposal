@@ -10,12 +10,12 @@ The writer will study an approved historical faulture of technical communication
 **Course Learning Outcomes**: 2, 6, 3, 5, 7, 8
 
 ### Assignment Outcomes
-a. Identify a historical fault or failure of technical communication
-b. Explain the fault or failure using the discouse of tech comm and in the context of the appropriate field.
-c. Apply heuristics or principles to the fault or failure
-d. Analyze documents and technical artifacts 
-e. Critique response to the fault or failure
-f. Recommend specific changes to the field based on the findings of the report
+a. Identify a historical fault or failure of technical communication  
+b. Explain the fault or failure using the discouse of tech comm and in the context of the appropriate field.  
+c. Apply heuristics or principles to the fault or failure  
+d. Analyze documents and technical artifacts   
+e. Critique response to the fault or failure  
+f. Recommend specific changes to the field based on the findings of the report  
 
 ### Relevant Content 
 * *IEEE Transactions on Professional Communication,* [Communication failures contributing to the Challenged accident: an example for technical communicators](http://ep4my7lr7s.scholar.serialssolutions.com/?sid=google&auinit=DA&aulast=Winsor&atitle=Communication+failures+contributing+to+the+Challenger+accident:+An+example+for+technical+communicators&id=doi:10.1109/47.7814&title=IEEE+transactions+on+engineering+writing+and+speech&volume=31&issue=3&date=1988&spage=101&issn=0361-1434) (UM Authentication Required)
