@@ -1,3 +1,5 @@
+[Download/Google Doc](https://docs.google.com/document/d/16uAmfR86gqaT7j14YT--E_g09Vk8UoPCzvT6sm86Gbs/edit?usp=sharing)
+
 # WRIT 320 : Technical Writing
 Section 1  | Spring 2018  
 Department of Writing & Rhetoric  
