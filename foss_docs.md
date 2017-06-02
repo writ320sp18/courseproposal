@@ -1,3 +1,5 @@
+![Why this assignment is important](https://thenextweb.com/dd/2017/06/02/free-software-is-suffering-because-coders-dont-know-how-to-write-documentation/?utm_source=social&utm_medium=feed&utm_campaign=profeed#.tnw_IZruvbiT)
+---
 ## Free & Open Source Software Documentation Project 
 The writer will select an approved free/open-source software project and develop documentation for an explicit use case. This project requires:
 - Extensive study of the chosen software
